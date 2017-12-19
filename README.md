@@ -10,10 +10,6 @@ These font files can be hotlinked under `https://jdh8.github.io/source-han-serif
 because [GitHub Pages][ghp] is active in this repository.  Thank GitHub for
 sending the header `Access-Control-Allow-Origin: *`.
 
-This repository will be deleted once [Google provides early access][early] to
-Noto Serif counterparts.
-
-[early]: https://fonts.google.com/earlyaccess
 [ghp]: https://pages.github.com/
 [import]:https://github.com/jdh8/jdh8.org/blob/master/_sass/fonts.scss
 [otf]: https://en.wikipedia.org/wiki/OpenType
